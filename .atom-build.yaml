@@ -1,0 +1,3 @@
+cmd: gcc "{FILE_ACTIVE}"
+args:
+  - -Wall
